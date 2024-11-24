@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+   
+}
+div{
+    background-color: rgba(231, 81, 236, 0.5);
+    height: 20rem;
+    margin: 100px;
+    width: 30rem;
+    padding-left: 30px;
+    padding-top: 50px;
+    display: block;
+    
+}
+
+.hello{
+        height:50px;
+}
+
+.tata{
+    height:50px;
+}
+
+.bye{
+    height:50px;
+}
+
+.hmm{
+    height:50px;
+    
+}
+
+.ok{
+    height:50px;
+}
+
+input{
+    height: 30px;
+    width: 15rem;
+}
+ 
+    
+
+ h1{
+    padding-top: 50px;
+  
+ }
+
+
+
